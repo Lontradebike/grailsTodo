@@ -13,7 +13,7 @@ const App = () => {
 	return (
 		<Router>
 			<div className="container">
-				<Header />
+				<Header/>
 				<Route
 					path="/"
 					exact
