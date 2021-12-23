@@ -1,0 +1,7 @@
+import grailstodo.Task
+
+model {
+    Task task
+}
+
+json tmpl.task(task)
